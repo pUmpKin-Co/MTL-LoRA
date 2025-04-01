@@ -1,0 +1,17 @@
+appdirs==1.4.4
+bitsandbytes
+black==24.3.0
+black[jupyter]
+datasets==2.15.0
+gradio==5.5.0
+scipy==1.11.4
+sentencepiece==0.1.99
+accelerate
+protobuf
+deepspeed
+tensorboard
+wandb
+peft
+datasets
+flash-attn
+transformers
